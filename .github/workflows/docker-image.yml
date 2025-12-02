@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
     # időzített indítás
-  schedule:
-    - cron: '10 04 * * *'  # Minden nap 04:10-kor
+ #  schedule:
+    # - cron: '10 04 * * *'  # Minden nap 04:10-kor
 
 jobs:
 
